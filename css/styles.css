@@ -8,7 +8,13 @@
     border-width: 5px;
     width: 5%;
   }
-  img{
+  img {
     height: 200px;
     border-radius: 50%;
+  }
+  h1 {
+    color: lightseagreen;
+  }
+  h3 {
+    color: lightseagreen;
   }
